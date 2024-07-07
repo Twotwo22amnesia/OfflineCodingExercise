@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IntCrKK8FqmMoc4+UiENfFrJBTbflZyky5wxmGsn64KfTDA4t81Jyb9bip6rDXxFm0/IfpaYPnU70ahdL+JV2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\criss\\source\\repos\\OfflineCodingExercise\\OfflineCodingExercise\\OfflineCodingExercise\\OfflineCodingExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\criss\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\criss\\.nuget\\packages\\restsharp\\111.3.0\\restsharp.111.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
